@@ -1,0 +1,11 @@
+{ "mappings": {
+        "properties": {
+          "id": {"type": "text","index" : true},
+          "Pic_Bins": {"type": "text","index" : true},
+          "Pic_Path": {"type": "text","index" : true},
+          "Pic_cluster": {"type": "text","index" : true}
+        }
+    }
+}
+
+
